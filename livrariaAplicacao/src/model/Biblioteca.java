@@ -16,7 +16,6 @@ public class Biblioteca {
 	}
 	
 	public Biblioteca(String nome, String titulo, String autor) {
-		super(titulo, autor);
 		this.nome = nome;
 	}
 	
