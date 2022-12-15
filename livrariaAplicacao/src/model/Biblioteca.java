@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class Biblioteca {
 	
-	private String nome;
 	//private String local;
 	private ArrayList<Livro> listaLivros = new ArrayList<Livro>();
 	//private int capacidade;
